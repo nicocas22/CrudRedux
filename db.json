@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Probando Correctamente Alerta",
+      "precio": "1000",
+      "id": 14
+    },
+    {
+      "nombre": "Jugo de pina",
+      "precio": 500,
+      "id": 15
+    },
+    {
+      "nombre": "Nuevo ",
+      "precio": 1220,
+      "id": 17
+    },
+    {
+      "nombre": "Carne Kobe",
+      "precio": 12000,
+      "id": 18
+    },
+    {
+      "nombre": "Carnecita",
+      "precio": 1200,
+      "id": 19
+    },
+    {
+      "nombre": "Otra vez",
+      "precio": 12000,
+      "id": 20
+    }
+  ]
+}
